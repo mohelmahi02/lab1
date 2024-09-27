@@ -3,4 +3,5 @@ let c = (num1,num2) =>{
     return num1+ num2;
 
 }
+//returns Valuable
 console.log(c(2,2));
